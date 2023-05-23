@@ -73,7 +73,7 @@ section{
 }
 .home-img img{
     max-width: 100%;
-    width:1000px;
+    width: 1000px;
     height: auto;
 }
 .home-text h1{
@@ -106,9 +106,23 @@ section{
     width: 480px;
     height: auto;
 }
+.about-gbr img{
+    max-width: 100%;
+    width: 1000px;
+    height: auto;
+}
 .about-text span{
     color: var(--main-color);
     font-weight: 600;
+}
+.about-jd h1{
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    color:#AA14F0;
+}
+.about-jd h2{
+    font-size: 2.5rem;
+
 }
 .about-text h2{
     font-size: var(--h2-font);
